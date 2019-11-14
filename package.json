@@ -15,7 +15,7 @@
     "@okta/okta-vue": "^1.0.0",
     "axios": "^0.18.1",
     "babel-install": "^2.1.0",
-    "bootstrap": "^4.1.0",
+    "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.7",
     "cors": "^2.8.4",
     "epilogue": "^0.7.1",
